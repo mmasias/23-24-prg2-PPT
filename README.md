@@ -1,18 +1,14 @@
-# 🪨 📄 ✂️ 
+# 🪨📄✂️🦎🖖🏻
 
-Desarrollar el PPT, como se indica debajo en la sugerencia de presentación.
-
-Para este caso, y para empezar, a diferencia del tres en raya, hagamos que el ordenador controle a los jugadores de modo que elijan automática y aleatoriamente la jugada que eligen (sea piedra, papel o tijera).
-
-Las entregas, como siempre, en una carpeta con el formato apellidoNombre, dentro de la carpeta entregas.
+Extender el PPT para que implemente la versión de Bing Bang Theory de piedra, papel, tijera, lagarto y Spock.
 
 ## Reglas
 
 <div align=center>
 
-|![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/langes-500px-Rock-paper-scissors.svg.png)|
+|![](https://static.wikia.nocookie.net/thebigbangtheory/images/c/cc/600px-Pierre_ciseaux_feuille_l%C3%A9zard_spock_aligned.svg.png/revision/latest?cb=20131215025302&path-prefix=es)|
 |-|
-Cada jugador, por turno, saca piedra, papel o tijeras.
+Cada jugador, por turno, saca piedra, papel, tijeras. lagarto o spock.
 Gana el primero que llega a las tres victorias.
 
 </div>
