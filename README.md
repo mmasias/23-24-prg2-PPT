@@ -16,24 +16,26 @@ Gana el primero que llega a las tres victorias.
 ## Sugerencia de presentación
 
 ```
-[~/misRepos/piedraPapelTijera]java PiedraPapelTijera 
+┏[manuel]--[Quince ≡ ● ]
+┖[~/misRepos/piedraPapelTijera]java -ea PiedraPapelTijera 
 
-[Bill Gates] saca [Papel] / [Steve Jobs] saca [Papel]
-> Empate
-[Bill Gates] saca [Piedra] / [Steve Jobs] saca [Papel]
-> Gana Bill Gates
-[Bill Gates] saca [Piedra] / [Steve Jobs] saca [Piedra]
-> Empate
-[Bill Gates] saca [Papel] / [Steve Jobs] saca [Papel]
-> Empate
-[Bill Gates] saca [Piedra] / [Steve Jobs] saca [Papel]
-> Gana Bill Gates
-[Bill Gates] saca [Papel] / [Steve Jobs] saca [Piedra]
-> Gana Steve Jobs
-[Bill Gates] saca [Piedra] / [Steve Jobs] saca [Papel]
-> Gana Bill Gates
+[Bill Gates] saca [Pistola] / [Steve Jobs] saca [Pistola]
+Empate
+[Bill Gates] saca [Lobo] / [Steve Jobs] saca [Tijeras]
+Gana Steve Jobs
+[Bill Gates] saca [Pistola] / [Steve Jobs] saca [Fuego]
+Gana Bill Gates
+[Bill Gates] saca [Esponja] / [Steve Jobs] saca [Serpiente]
+Gana Steve Jobs
+[Bill Gates] saca [Serpiente] / [Steve Jobs] saca [Lobo]
+Gana Bill Gates
+[Bill Gates] saca [Papel] / [Steve Jobs] saca [Agua]
+Gana Bill Gates
 Jugador Bill Gates
 3 puntos...
 Jugador Steve Jobs
-1 puntos...
+2 puntos...
+
+┏[manuel]--[Quince ≡ ● ]
+┖[~/misRepos/piedraPapelTijera]
 ```
