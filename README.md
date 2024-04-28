@@ -6,7 +6,7 @@ Extender el PPT para que implemente la versión de Bing Bang Theory de piedra, p
 
 <div align=center>
 
-|![](https://static.wikia.nocookie.net/thebigbangtheory/images/c/cc/600px-Pierre_ciseaux_feuille_l%C3%A9zard_spock_aligned.svg.png/revision/latest?cb=20131215025302&path-prefix=es)|
+|![](https://intervia.com/img/piedra-papel-tijera-lagarto-spock.png)|
 |-|
 Cada jugador, por turno, saca piedra, papel, tijeras. lagarto o spock.
 Gana el primero que llega a las tres victorias.
