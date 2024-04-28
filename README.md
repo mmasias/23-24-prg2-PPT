@@ -1,6 +1,6 @@
 # 🪨📄✂️🦎🖖🏻
 
-Extender el PPT para que implemente la versión de Bing Bang Theory de piedra, papel, tijera, lagarto y Spock.
+Extender el PPT para que implemente la versión de [Bing Bang Theory de piedra, papel, tijera, lagarto y Spock](https://www.youtube.com/watch?v=_tsy4q9ibAE).
 
 ## Reglas
 
