@@ -1,18 +1,14 @@
-# 🪨 📄 ✂️ 
+# 🪨🔫⚡😈🐉💧🌬️📄🧽🐺🌳👤🐍✂️🔥
 
-Desarrollar el PPT, como se indica debajo en la sugerencia de presentación.
-
-Para este caso, y para empezar, a diferencia del tres en raya, hagamos que el ordenador controle a los jugadores de modo que elijan automática y aleatoriamente la jugada que eligen (sea piedra, papel o tijera).
-
-Las entregas, como siempre, en una carpeta con el formato apellidoNombre, dentro de la carpeta entregas.
+Extender el PPT para que implemente la  [versión propuesta por los microsiervos](https://www.microsiervos.com/archivo/humor/piedra-papel-tijera-pistola-rayo-dragon-agua-aire-esponja-lobo-arbol-humano-serpiente-fuego.html).
 
 ## Reglas
 
 <div align=center>
 
-|![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Rock-paper-scissors.svg/langes-500px-Rock-paper-scissors.svg.png)|
+|![](/images/18089.jpeg)|
 |-|
-Cada jugador, por turno, saca piedra, papel o tijeras.
+Cada jugador, por turno, saca piedra, papel, tijeras, pistola, rayo, dragón, agua, aire, espoja, lobo, árbol, humano, serpiente o fuego.
 Gana el primero que llega a las tres victorias.
 
 </div>
