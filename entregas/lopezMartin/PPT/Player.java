@@ -1,3 +1,5 @@
+package PPT;
+
 import java.util.Random;
 
 public class Player {
@@ -5,10 +7,12 @@ public class Player {
     private String name;
     private int selection;
     private String choice;
+    private int score;
 
     public Player(String name){
 
         this.name = name;
+        score = 0;
 
     }
 
@@ -38,6 +42,16 @@ public class Player {
     }
 
     return choice;
+    }
+
+    public int getScore(){
+
+        return score;
+    }
+
+    public void sumScore(){
+
+        score++;
     }
     
 }
