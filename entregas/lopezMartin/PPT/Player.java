@@ -6,14 +6,12 @@ public class Player {
 
     private String name;
     private int selection;
-    private String choice;
     private int score;
+    private String CHOICES = new {"Piedra","Papel","Tijera"};
 
     public Player(String name){
-
         this.name = name;
         score = 0;
-
     }
 
     public void choose(){
@@ -22,35 +20,22 @@ public class Player {
     }
 
     public String getName(){
-
         return name;
     }
 
     public int getSelection(){
-
         return selection;
     }
 
     public String getChoice(){
-
-    if (selection==0) {
-        choice = "piedra";
-    }else if(selection==1){
-        choice = "papel";
-    }else{
-        choice = "tijera";
-    }
-
-    return choice;
+        return CHOICES[selection];
     }
 
     public int getScore(){
-
         return score;
     }
 
     public void sumScore(){
-
         score++;
     }
     
