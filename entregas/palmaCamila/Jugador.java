@@ -20,6 +20,10 @@ public class Jugador {
             { -1, 1, -1, -1, -1, -1, -1, 1, -1, 1, -1, 1, -1, 0 } // Fuego
     };
 
+    private String[] opciones = {
+        "Piedra","Papel", "Tijeras", "Pistola", "Rayo", "Dragón", "Agua", " Aire", "Esponja", "Lobo", "Árbol", "Humano", "Serpiente", "Fuego" 
+    }
+    
     public Jugador(String nombre) {
         this.nombre = nombre;
     }
@@ -45,52 +49,7 @@ public class Jugador {
     }
 
     public String toStringOpcion() {
-        String opcionStr = "";
-        switch (opcion) {
-            case 0:
-                opcionStr = "Piedra";
-                break;
-            case 1:
-                opcionStr = "Papel";
-                break;
-            case 2:
-                opcionStr = "Tijeras";
-                break;
-            case 3:
-                opcionStr = "Pistola";
-                break;
-            case 4:
-                opcionStr = "Rayo";
-                break;
-            case 5:
-                opcionStr = "Dragón";
-                break;
-            case 6:
-                opcionStr = "Agua";
-                break;
-            case 7:
-                opcionStr = "Aire";
-                break;
-            case 8:
-                opcionStr = "Esponja";
-                break;
-            case 9:
-                opcionStr = "Lobo";
-                break;
-            case 10:
-                opcionStr = "Árbol";
-                break;
-            case 11:
-                opcionStr = "Humano";
-                break;
-            case 12:
-                opcionStr = "Serpiente";
-                break;
-            case 13:
-                opcionStr = "Fuego";
-                break;
-        }
-        return opcionStr;
+       return opciones[this.option];
     }
 
     public void jugar() {
